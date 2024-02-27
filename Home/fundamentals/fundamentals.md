@@ -91,31 +91,31 @@ Guidewire se ha convertido en un socio confiable para numerosas aseguradoras en 
 
 
 ## ARQUITECTURA
-![Arquitectura](/Home/Imgs/arquitectura.png)
+![Arquitectura](/Home/fundamentals/Imgs/arquitectura.png)
 
 ## MODELO DE DATOS
-![Modelo de Datos](/Home/Imgs/modelo_datos.png)
+![Modelo de Datos](/Home/fundamentals/Imgs/modelo_datos.png)
 
 ## ENTIDADES
-![Entidades](/Home/Imgs/entidades.png)
+![Entidades](/Home/fundamentals/Imgs/entidades.png)
 
 - Foreign Key: Relaciones uno a uno
 - Array Key: Relaciones uno a muchos
 - TypeKey: Relaciones entidad con lista de valores definidos
 
 ## SUBTIPOS
-![Subtipos](/Home/Imgs/subtipos.png)
+![Subtipos](/Home/fundamentals/Imgs/subtipos.png)
 
 - Hereda campos, funciones o propiedades de una entidad padre
 
 ## TYPELIST
-![Typelist](/Home/Imgs/typelist.png)
+![Typelist](/Home/fundamentals/Imgs/typelist.png)
 
 - Lista de tipos
 - Puede tener campos físicos y virtuales
 
 ## LENGUAJE GOSU
-![Lenguaje Gosu](/Home/Imgs/lenguaje_gosu.png)
+![Lenguaje Gosu](/Home/fundamentals/Imgs/lenguaje_gosu.png)
 
 - Creado por Guidewire
 - Corre en la máquina virtual de Java
@@ -130,99 +130,99 @@ Guidewire se ha convertido en un socio confiable para numerosas aseguradoras en 
 - || (Or)
 
 ### Diferencias entre Gosu y Java
-![Diferencias](/Home/Imgs/diferencias.png)
+![Diferencias](/Home/fundamentals/Imgs/diferencias.png)
 
 ### Diferencias operadores lógicos
-![Diferencias 2](/Home/Imgs/diferencias_logicos.png)
+![Diferencias 2](/Home/fundamentals/Imgs/diferencias_logicos.png)
 
 ### Diferencias en los flujos de control
-![Diferencias 3](/Home/Imgs/diferencias_flujos.png)
+![Diferencias 3](/Home/fundamentals/Imgs/diferencias_flujos.png)
 
 ### Declaración de funciones y variables
-![Declaraciones](/Home/Imgs/declaraciones.png)
+![Declaraciones](/Home/fundamentals/Imgs/declaraciones.png)
 
 ### Características propias del Lenguaje
-![Características](/Home/Imgs/caracteristicas_propias.png)
+![Características](/Home/fundamentals/Imgs/caracteristicas_propias.png)
 
 ## ENHANCEMENT
-![Enhancement](/Home/Imgs/enhancement.png)
+![Enhancement](/Home/fundamentals/Imgs/enhancement.png)
 
 - Funciones para mejorar los comportamientos de clases o entidades
 
 ### Ejemplo Enhancement
-![Ejemplo Enhancement](/Home/Imgs/enhancement.png)
+![Ejemplo Enhancement](/Home/fundamentals/Imgs/enhancement.png)
 
 ## REGLAS DE NEGOCIO
-![Reglas de Negocio](/Home/Imgs/reglas_negocio.png)
+![Reglas de Negocio](/Home/fundamentals/Imgs/reglas_negocio.png)
 
 - Están presentes en todas las plataformas.
 - Las reglas de Negocio no se pueden testear. Se debe migrar a una clase o a un Enhancement para poder testear.
 - Tienen una jerarquía, y estas dependen de su ejecución.
 
 ### Ejemplos Reglas de Negocio
-![Ejemplo Reglas de Negocio](/Home/Imgs/ejm_reglas_negocio.png)
+![Ejemplo Reglas de Negocio](/Home/fundamentals/Imgs/ejm_reglas_negocio.png)
 
 ## GOSU QUERIES
-![Gosu Queries](/Home/Imgs/gosu_queries.png)
+![Gosu Queries](/Home/fundamentals/Imgs/gosu_queries.png)
 
 - Permite crear consultas SQL orientadas a objetos
 - La construcción de TU es algo complejo, se vuelve tedioso el testeo de queries
 
 ### Ejemplo Gosu Queries
-![Ejemplo Gosu Queries](/Home/Imgs/ejm_gosu_queries.png)
+![Ejemplo Gosu Queries](/Home/fundamentals/Imgs/ejm_gosu_queries.png)
 
 - No se puede aplicar Right Order Join o Full Order Join
 
 ## INTERFAZ GRÁFICA DE USUARIO
-![Interfaz de Usuario](/Home/Imgs/interfaz_usuario.png)
+![Interfaz de Usuario](/Home/fundamentals/Imgs/interfaz_usuario.png)
 
 - Framework: PCF (Page Configuration File)
 - Archivos XML
 
 ### Jerarquía de Elementos PCF
-![Jerarquía PCF](/Home/Imgs/jerarquia_pcf.png)
+![Jerarquía PCF](/Home/fundamentals/Imgs/jerarquia_pcf.png)
 
 - Widget: Renderizan en el navegador html
 - Location: Navegar de un elemento a otro. Controlar la navegación dentro de la app
 
 ### Ejemplos de Elementos PCF
-![Ejemplo PCF](/Home/Imgs/ejm_pcf.png)
+![Ejemplo PCF](/Home/fundamentals/Imgs/ejm_pcf.png)
 
-![Ejemplo PCF 2](/Home/Imgs/ejm_pcf_2.png)
+![Ejemplo PCF 2](/Home/fundamentals/Imgs/ejm_pcf_2.png)
 
 ### Reutilizar Contenedores
-![Reutilizar Contenedores](/Home/Imgs/reutilizar_contenedores.png)
+![Reutilizar Contenedores](/Home/fundamentals/Imgs/reutilizar_contenedores.png)
 
 ## ENTITY NAMES
-![Entity Names](/Home/Imgs/entity_names.png)
+![Entity Names](/Home/fundamentals/Imgs/entity_names.png)
 
 ## GLOBALIZACIÓN
 
 ### Internacionalización
-![Internacionalización](/Home/Imgs/internacionalizacion.png)
+![Internacionalización](/Home/fundamentals/Imgs/internacionalizacion.png)
 
 - Cada idioma debe tener claves y valores para cada elemento configurado
 
 ## SEGURIDAD
-![Seguridad](/Home/Imgs/seguridad.png)
+![Seguridad](/Home/fundamentals/Imgs/seguridad.png)
 
 - Los roles son agrupadores de permisos
 - Es importante definir con el equipo de negocio el tipo de rol/usuario toda vez que se requiera construir alguna pantalla
 
 ## SCRIPT PARAMETERS
-![Script Parameters](/Home/Imgs/script_parameters.png)
+![Script Parameters](/Home/fundamentals/Imgs/script_parameters.png)
 
 ## INTEGRACIONES
-![Integraciones](/Home/Imgs/integraciones.png)
+![Integraciones](/Home/fundamentals/Imgs/integraciones.png)
 
 ### Puntos de Integración
-![Puntos de Integración](/Home/Imgs/puntos_integracion.png)
+![Puntos de Integración](/Home/fundamentals/Imgs/puntos_integracion.png)
 
 ### Puntos de Integración por Plataforma
-![Puntos de Integración por Plataforma](/Home/Imgs/puntos_integracion_plataforma.png)
+![Puntos de Integración por Plataforma](/Home/fundamentals/Imgs/puntos_integracion_plataforma.png)
 
 ### Tecnologías de Integración
-![Tecnologías de Integración](/Home/Imgs/tecnologias_integracion.png)
+![Tecnologías de Integración](/Home/fundamentals/Imgs/tecnologias_integracion.png)
 
 - Se utilizan para intercambiar información
 - FTP
@@ -231,7 +231,7 @@ Guidewire se ha convertido en un socio confiable para numerosas aseguradoras en 
 - Comunicaciones Síncronas
 
 ### Mecanismos de Integración
-![Mecanismos de Integración](/Home/Imgs/mecanismos_integracion.png)
+![Mecanismos de Integración](/Home/fundamentals/Imgs/mecanismos_integracion.png)
 
 - Componentes dentro de la plataforma que permiten hacer uso de la integración
 
