@@ -16,14 +16,12 @@
 - canVisit => perm.System.(tipo_permiso)
 
 ## Servicios Web SOAP
-Configuration>gsrc>sura
-
-- Crear el nombre del paquete
+- Path: configuration>gsrc>company
+- Crear un nuevo paquete para almacenar los métodos
 - Dentro del paquete crear el Webservice Collection => Permte configurar los recursos para el uso de servicios externos
 
 ### Consumir Servicio Web
 ![Consumir Servicio Web](/Practice/imgs/consumir_servicio_web.png)
-
 
 ### Exponer Servicio Web
 ![Exponer Servicio Web](/Practice/imgs/exponer_servicio_web.png)
