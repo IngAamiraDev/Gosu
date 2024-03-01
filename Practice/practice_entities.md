@@ -1,4 +1,4 @@
-# Práctica Entidades PCF's
+# Taller Practico - Creación de entidades TypeList PCF's displaykey
 
 ## Directorio Extensions
 - Es el que contiene todas las entidades modificables de la plataforma
@@ -29,7 +29,7 @@ Entity Type:
 - nonPersistentEntity => Son temporales, no se persisten en BD. Los datos se mantienen en memoria, solo se mantienen en tiempo de ejecución y se eliminan al reiniciar
 - delegate => Definir una interface y la clase que implementa los métodos de esa interface
 
-Esc:
+Desc:
 - Descripción en caso de ser necesario
 
 Table:
@@ -52,7 +52,7 @@ SubType (Atributos):
 ## Ejemplo PCF
 ![NewVehicle](/Practice/imgs/newVehicle.png)
 
-## Ejemplo dle render en el front
+## Ejemplo del render en el front
 ![View Front](/Practice/imgs/viewFront.png)
 
 ## Gosu Scratchpad
